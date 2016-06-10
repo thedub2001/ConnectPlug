@@ -1,0 +1,17 @@
+# option devices:
+
+## 5v Voltage regulator:
+onboard
+3pins espaced of 0.1 inch
+
+## 3.3v Voltage regulator:
+onboard
+3pins espaced of 0.1 inch
+
+## Reset button :
+deported or onboard
+2pins espaced of 2*0.1 inch
+
+## Programming-mode Switch button:
+deported or onboard
+?? 3pins espaced of 0.1 inch
